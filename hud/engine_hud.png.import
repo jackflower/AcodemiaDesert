@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/shaggy.png-6ea82da19932985be85669038487060a.stex"
+path="res://.import/engine_hud.png-e515b5336a99d7b9582c7b21c43e3b90.stex"
 
 [deps]
 
-source_file="res://timberman/shaggy.png"
-source_md5="ace220858fca44bca6cb4247161024a9"
+source_file="res://hud/engine_hud.png"
+source_md5="723af62843ac5825e92e0ed8debee365"
 
-dest_files=[ "res://.import/shaggy.png-6ea82da19932985be85669038487060a.stex" ]
-dest_md5="f2c8526b12c5f84d5ff76cddaf6c10c1"
+dest_files=[ "res://.import/engine_hud.png-e515b5336a99d7b9582c7b21c43e3b90.stex" ]
+dest_md5="f849110cca7b427d596212b8e5194ca5"
 
 [params]
 
