@@ -6,3 +6,6 @@ export_presets.cfg
 
 # Mono-specific ignores
 .mono/
+
+# 2019-01-10
+*.import
