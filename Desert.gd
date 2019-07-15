@@ -30,13 +30,10 @@ func update_portal(engines):
 	$Hud/Label_engines.text = str(engines)
 	if(engines >= ENGINE_COUNT):
 		
-		
 		var portal = portal_data.instance()
 		portal.global_position = portal_position
 		portal.global_scale = portal.global_scale * 4
 		get_parent().add_child(portal)
-		
-		
 		
 		pass
 	pass
