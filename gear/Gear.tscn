@@ -24,6 +24,6 @@ polygon = PoolVector2Array( -6, -27, 6, -27, 6, -6, 27, -6, 27, 6, 6, 6, 6, 27, 
 
 texture = ExtResource( 2 )
 
-[connection signal="body_entered" from="." to="." method="_on_Elixir_body_entered"]
+[connection signal="body_entered" from="." to="." method="_on_Gear_body_entered"]
 
 

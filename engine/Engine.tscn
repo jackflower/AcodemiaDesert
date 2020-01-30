@@ -28,7 +28,7 @@ tracks/0/keys = {
 "values": [ 0.0, 360.0 ]
 }
 
-[node name="Engine" type="Area2D" index="0"]
+[node name="Engine" type="Area2D"]
 
 input_pickable = true
 gravity_vec = Vector2( 0, 1 )
@@ -65,6 +65,6 @@ playback_speed = 1.0
 anims/portal_animation = SubResource( 2 )
 blend_times = [  ]
 
-[connection signal="body_entered" from="." to="." method="_on_Portal_body_entered"]
+[connection signal="body_entered" from="." to="." method="_on_Engine_body_entered"]
 
 
