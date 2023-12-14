@@ -1,6 +1,6 @@
 # Projekt Acodemia - Acodemia Desert
 
-Godot Engine v3.3.4.stable.official, update 2023
+Godot Engine v3.3.4.stable.official, update 2023 - testy
 
 ![Acodemia icon](https://github.com/jackflower/AcodemiaDesert/blob/master/acodemia_desert_icon.png)
 
